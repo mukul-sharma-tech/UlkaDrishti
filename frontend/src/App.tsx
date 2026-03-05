@@ -148,7 +148,7 @@ function App() {
               <div className="text-4xl">🛡️</div>
               <div>
                 <h1 className="text-3xl font-bold text-white font-space">
-                  AstroGuard: Earth's Sentinel
+                  UlkaDrishti: Earth's Sentinel
                 </h1>
                 <p className="text-space-300 text-sm">
                   Interactive Asteroid Impact Visualization & Defense Simulation
